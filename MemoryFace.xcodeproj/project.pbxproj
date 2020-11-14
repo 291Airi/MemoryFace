@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		41BD62BF236441A200D38DBA /* EntryCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41BD62BE236441A200D38DBA /* EntryCollectionViewCell.swift */; };
+		41B01F85237693A000589178 /* SeaveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B01F84237693A000589178 /* SeaveViewController.swift */; };
 		41E39EB72346314D00980721 /* MemoryFaceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41E39EB62346314D00980721 /* MemoryFaceTests.swift */; };
 		41E39EC22346314D00980721 /* MemoryFaceUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41E39EC12346314D00980721 /* MemoryFaceUITests.swift */; };
 		41E39ED32346375600980721 /* pose_atama_kakaeru_woman.png in Resources */ = {isa = PBXBuildFile; fileRef = 41E39ED02346375600980721 /* pose_atama_kakaeru_woman.png */; };
@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		41BD62BE236441A200D38DBA /* EntryCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryCollectionViewCell.swift; sourceTree = "<group>"; };
+		41B01F84237693A000589178 /* SeaveViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeaveViewController.swift; sourceTree = "<group>"; };
 		41E39EA12346314800980721 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		41E39EA32346314800980721 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		41E39EA62346314800980721 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -78,10 +78,10 @@
 				41E39EA12346314800980721 /* AppDelegate.swift */,
 				41E39EA32346314800980721 /* ViewController.swift */,
 				41E39EA52346314800980721 /* Main.storyboard */,
-				41BD62BE236441A200D38DBA /* EntryCollectionViewCell.swift */,
 				41E39EA82346314C00980721 /* Assets.xcassets */,
 				41E39EAA2346314C00980721 /* LaunchScreen.storyboard */,
 				41E39EAD2346314C00980721 /* Info.plist */,
+				41B01F84237693A000589178 /* SeaveViewController.swift */,
 			);
 			path = MemoryFace;
 			sourceTree = "<group>";
@@ -216,7 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				41E39EB72346314D00980721 /* MemoryFaceTests.swift in Sources */,
-				41BD62BF236441A200D38DBA /* EntryCollectionViewCell.swift in Sources */,
+				41B01F85237693A000589178 /* SeaveViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
